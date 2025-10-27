@@ -1,8 +1,7 @@
-# Scanning.Tools
+# Scanning.Tools 🔍
 In this repository we will have a list of tools to scan vulnerabilities in apps.
 
-### Tools
-| Tool             | Links                         | Scanning                     |
+| Tool 🛠️             | Links  💭                       | Scanning⚙️                     |
 |------------------|-------------------------------------|------------------------------|
 | Amazon inspector           |  https://aws.amazon.com/es/inspector/    | Escanea imagenes de ECR, escanea ec2 and lambdas   |
 | DNS check           | https://dnschecker.org/#CNAME/projectchaco.engbim.com | Servidores y VMs            |
