@@ -10,3 +10,6 @@ In this repository we will have a list of tools to scan vulnerabilities in apps.
 | Nmap                 | https://nmap.org/download.html | Escanea versiones viejas de paquetes y puertos abiertos   |
 | Trivy                |  https://github.com/aquasecurity/trivy/releases | Escanea las imagenes de los docker en los pipelines CD/CI  |
 | Prowlner             |  https://github.com/prowler-cloud/prowler | Vulnerabilities in AWS  |
+| DeveloperMozilla     | https://developer.mozilla.org/ | Read headers in our domains  |
+
+
